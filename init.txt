@@ -1,0 +1,3 @@
+## 将仓库添加到Github上: git remote add origin <github仓库地址>
+## 推送指令: git push origin <本地分支>
+## 
